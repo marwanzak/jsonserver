@@ -1,0 +1,21 @@
+{
+"users":[
+{
+"username":"username1",
+"name":"name 1"
+},
+{
+"username":"username2",
+"name":"name 2"
+},
+{
+"username":"username3",
+"name":"name 3"
+},
+{
+"username":"username4",
+"name":"name 4"
+}
+]
+
+}
